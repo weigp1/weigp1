@@ -9,7 +9,6 @@
 </div>
 
 #  🙋 Hello
-<table>
 <tr><td>
 ### 🤺 About Me
 <p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
